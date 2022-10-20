@@ -1,0 +1,68 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {paragraph}{Agent}{1}{section*.7}%
+\contentsline {paragraph}{Action}{1}{section*.8}%
+\contentsline {paragraph}{Discount Factor $\gamma $}{1}{section*.9}%
+\contentsline {paragraph}{Environment}{1}{section*.10}%
+\contentsline {paragraph}{Episode}{2}{section*.11}%
+\contentsline {section}{\numberline {2}Literature Survey and Review}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Markov Decision Processes (MDPs)}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}The Recycling Robot}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Neural Networks}{5}{subsection.2.3}%
+\contentsline {paragraph}{Threshold Function}{7}{section*.12}%
+\contentsline {paragraph}{Sigmoid Function}{7}{section*.13}%
+\contentsline {paragraph}{Rectified Linear Unit (ReLU)}{8}{section*.14}%
+\contentsline {subsubsection}{\numberline {2.3.1}Feedforward Networks}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Backpropagation}{10}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Convolutional Neural Networks (CNNs)}{14}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Recurrent Networks}{16}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Long Short-Term Memory (LSTM)}{17}{subsubsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.4}Policy Iteration}{19}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Monte Carlo Method}{20}{subsection.2.5}%
+\contentsline {paragraph}{Credit Assignment Problem}{20}{section*.15}%
+\contentsline {subsection}{\numberline {2.6}Temporal Difference Learning}{22}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Bias-Variance Tradeoff}{23}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}TD($\lambda $)}{24}{subsubsection.2.6.2}%
+\contentsline {subsection}{\numberline {2.7}Q-Learning}{27}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Double Q-Learning}{27}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Trust Region Policy Optimization (TRPO)}{28}{subsubsection.2.7.2}%
+\contentsline {subsection}{\numberline {2.8}Key Algorithms}{29}{subsection.2.8}%
+\contentsline {subsubsection}{\numberline {2.8.1}Deep Q-Network (DQN)}{29}{subsubsection.2.8.1}%
+\contentsline {subsubsection}{\numberline {2.8.2}Proximal Policy Optimization (PPO)}{30}{subsubsection.2.8.2}%
+\contentsline {subsubsection}{\numberline {2.8.3}Generalized Advantage Estimation (GAE)}{31}{subsubsection.2.8.3}%
+\contentsline {section}{\numberline {3}Machine Learning in Tetris}{32}{section.3}%
+\contentsline {section}{\numberline {4}Experiment Design}{34}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Bayesian Optimization}{35}{subsection.4.1}%
+\contentsline {section}{\numberline {5}Algorithm Implementation}{36}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Model}{36}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}DataLoader}{37}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Optimizer}{37}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Training Step}{38}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Results and Analysis}{38}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Optimization Results}{38}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}DQN Optimization Results}{38}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}PPO Optimization Results}{42}{subsubsection.6.1.2}%
+\contentsline {subsection}{\numberline {6.2}Experiment 1 : State Representation}{43}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Discussion - PPO}{44}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Follow-Up Experiment : State History with Larger Neural Net}{46}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Discussion - DQN}{47}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}Follow-up Experiment: DQN with Larger Neural Net}{48}{subsubsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.3}Experiment 2 : Reward Shaping}{48}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Reward Function Design : Time-Based Negative Reward}{51}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Reward Function Design : Score-Based Reward}{52}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Reward Function Design : Potential-Based Reward for Holes}{52}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Discussion - PPO}{53}{subsubsection.6.3.4}%
+\contentsline {subsubsection}{\numberline {6.3.5}Discussion - DQN}{55}{subsubsection.6.3.5}%
+\contentsline {subsection}{\numberline {6.4}Experiment 3: Exploration Strategy}{57}{subsection.6.4}%
+\contentsline {subsubsection}{\numberline {6.4.1}Discussion - PPO}{60}{subsubsection.6.4.1}%
+\contentsline {subsubsection}{\numberline {6.4.2}Discussion - DQN}{61}{subsubsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.5}Experiment Attempt : Network Architecture}{62}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Limitations and Further Work}{63}{section.7}%
+\contentsline {section}{\numberline {8}Conclusion}{65}{section.8}%
+\contentsline {section}{\numberline {A}Optimization - Navigating the Loss Landscape}{79}{appendix.A}%
+\contentsline {section}{\numberline {B}PPO - All Optimization Runs}{80}{appendix.B}%
+\contentsline {section}{\numberline {C}Behaviour of Potential-Based Rewards Function}{81}{appendix.C}%
+\contentsline {section}{\numberline {D}Proposed Architecture Experiment}{82}{appendix.D}%
+\contentsline {section}{\numberline {E}CNN Architectures}{83}{appendix.E}%
+\contentsline {section}{\numberline {F}Code}{84}{appendix.F}%
+\contentsline {section}{\numberline {G}Permissions}{98}{appendix.G}%

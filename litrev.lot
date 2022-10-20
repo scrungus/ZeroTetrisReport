@@ -1,0 +1,4 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Hyperparameter results for Bayesian Optimization. \textbf {eps\_last\_frame} is set to the value of \textbf {replay\_size} for any given run.}}{43}{table.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Counts for different types of clears over the course of training for different reward structures.}}{55}{table.2}%
+\contentsline {table}{\numberline {3}{\ignorespaces Counts for different types of clears over the course of training for different reward structures.}}{57}{table.3}%

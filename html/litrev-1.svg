@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?> 
+<?xml-stylesheet href="litrev.css" type="text/css"?> 
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="371.87079pt" height="123.92596pt" viewBox="40.82356 -224.6247 371.87079 123.92596 "> 
+<g transform="translate(0, -100.69873 ) scale(1,-1) translate(0,224.6247 )"> 
+<g stroke="#000" fill="#000">
+ <g stroke-width="0.4">
+ <g stroke="#000" fill="#000">
+ <path d=" M 154.21155 -167.29953 M 171.28293 -167.29953 C 171.28293 -157.87115 163.63992 -150.22815 154.21155 -150.22815 C 144.78317 -150.22815 137.14017 -157.87115 137.14017 -167.29953 C 137.14017 -176.7279 144.78317 -184.37091 154.21155 -184.37091 C 163.63992 -184.37091 171.28293 -176.7279 171.28293 -167.29953 Z M 154.21155 -167.29953  " fill="none"/>
+ </g>
+ <path d=" M 154.21155 -167.29953  " fill="none"/>
+ <g transform="translate(140.46577,-170.29953)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(13.74577,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">High</tspan> </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 270.29694 -167.29953 M 287.36832 -167.29953 C 287.36832 -157.87115 279.72531 -150.22815 270.29694 -150.22815 C 260.86856 -150.22815 253.22556 -157.87115 253.22556 -167.29953 C 253.22556 -176.7279 260.86856 -184.37091 270.29694 -184.37091 C 279.72531 -184.37091 287.36832 -176.7279 287.36832 -167.29953 Z M 270.29694 -167.29953  " fill="none"/>
+ </g>
+ <path d=" M 270.29694 -167.29953  " fill="none"/>
+ <g transform="translate(259.11443,-171.39952)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(11.18251,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">Low</tspan> </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 272.94298 -150.50131 C 270.66638 -143.8069 274.24765 -136.53438 280.94206 -134.25778 C 287.63647 -131.98119 294.909 -135.56245 297.1856 -142.25687 C 298.65807 -146.58676 297.70837 -151.375 294.69485 -154.8152 C 292.30437 -157.54407 288.86668 -159.13162 285.23914 -159.18105  " fill="none"/>
+ </g>
+ <path d=" M 366.69337 -133.09988  " fill="none"/>
+ <g transform="translate(320.6924,-129.89989)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(46.00098,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">search</tspan>(<tspan font-family="cmmi" font-size="12">&#x03B2;,</tspan><tspan font-family="cmsy" font-size="10"><img 
+src="cmsy10-c-52.png" alt="R" class="10-120x-x-52" /></tspan><tspan baseline-shift="sub"><tspan font-family="cmmi" font-size="8">search</tspan></tspan>)</g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 285.26288 -159.16222 L 290.44113 -160.41412 L 288.62022 -155.00821  " stroke="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 253.22554 -167.29953 L 171.28293 -167.29953  " fill="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 171.28293 -167.29953 L 175.83522 -170.14476 L 175.83522 -164.4543  " stroke="none"/>
+ </g>
+ <path d=" M 212.25424 -164.4543  " fill="none"/>
+ <g transform="translate(176.08795,-161.2543)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(36.16629,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">recharge</tspan>(1<tspan font-family="cmmi" font-size="12">, </tspan>0) </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 287.26585 -168.42632 C 293.72896 -165.55815 301.29355 -168.47223 304.16171 -174.93533 C 307.02988 -181.39844 304.1158 -188.96303 297.6527 -191.83119 C 293.47244 -193.68639 288.61838 -193.17043 284.92146 -190.47789 C 281.98883 -188.34196 280.09943 -185.05998 279.72472 -181.45157  " fill="none"/>
+ </g>
+ <path d=" M 307.22806 -193.58952  " fill="none"/>
+ <g transform="translate(307.42805,-196.91122)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(35.44116,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">wait</tspan>(1<tspan font-family="cmmi" font-size="12">, </tspan><tspan font-family="cmsy" font-size="10"><img 
+src="cmsy10-c-52.png" alt="R" class="10-120x-x-52" /></tspan><tspan baseline-shift="sub"><tspan font-family="cmmi" font-size="8">wait</tspan> </tspan> ) </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 279.74312 -181.46881 L 278.94646 -186.76099 L 284.18167 -184.48476  " stroke="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 158.65575 -150.87694 C 171.52962 -121.27434 205.96371 -107.7128 235.56631 -120.58667 C 249.12785 -126.484 259.95926 -137.3154 265.85658 -150.87694  " fill="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 158.6501 -150.85411 L 163.08865 -147.83817 L 157.85344 -145.56201  " stroke="none"/>
+ </g>
+ <path d=" M 212.25424 -112.89873  " fill="none"/>
+ <g transform="translate(166.23343,-109.69873)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(46.02081,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">search</tspan>(1 <tspan font-family="cmsy" font-size="10">- </tspan><tspan font-family="cmmi" font-size="12">&#x03B2;, </tspan><tspan font-family="cmsy" font-size="10">-</tspan>5)</g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 262.56363 -182.45894 C 249.98354 -200.42996 228.76558 -210.32726 206.9123 -208.4194 C 188.826 -206.84045 172.35612 -197.33203 161.94534 -182.45894  " fill="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 262.55789 -182.43619 L 257.60722 -184.54163 L 262.27336 -187.8421  " stroke="none"/>
+ </g>
+ <path d=" M 212.25424 -211.51445  " fill="none"/>
+ <g transform="translate(155.8568,-221.6247)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(56.39745,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">search</tspan>(1 <tspan font-family="cmsy" font-size="10">- </tspan><tspan font-family="cmmi" font-size="12">&#x03B1;, </tspan><tspan font-family="cmsy" font-size="10"><img 
+src="cmsy10-c-52.png" alt="R" class="10-120x-x-52" /></tspan><tspan baseline-shift="sub"><tspan font-family="cmmi" font-size="8">search</tspan></tspan>)</g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 151.20125 -184.03523 C 153.33093 -190.77771 149.59181 -197.97011 142.84933 -200.0998 C 136.10686 -202.22948 128.91446 -198.49036 126.78477 -191.74788 C 125.40726 -187.38692 126.46146 -182.62057 129.54941 -179.2472 C 131.9989 -176.57127 135.46997 -175.05952 139.09772 -175.08902  " fill="none"/>
+ </g>
+ <path d=" M 86.95024 -201.04402  " fill="none"/>
+ <g transform="translate(40.82356,-211.15427)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(46.12668,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">search</tspan>(<tspan font-family="cmmi" font-size="12">&#x03B1;, </tspan><tspan font-family="cmsy" font-size="10"><img 
+src="cmsy10-c-52.png" alt="R" class="10-120x-x-52" /></tspan><tspan baseline-shift="sub"><tspan font-family="cmmi" font-size="8">search</tspan> </tspan> ) </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 139.07489 -175.09552 L 133.89655 -173.72978 L 135.6037 -179.19267  " stroke="none"/>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 137.29948 -165.5185 C 130.73088 -168.13562 123.28412 -164.9322 120.66699 -158.3636 C 118.04987 -151.795 121.25328 -144.34824 127.82188 -141.73111 C 132.07051 -140.03847 136.90114 -140.741 140.49138 -143.57399 C 143.33942 -145.82127 145.10104 -149.173 145.33665 -152.79333  " fill="none"/>
+ </g>
+ <path d=" M 118.1909 -139.4163  " fill="none"/>
+ <g transform="translate(47.10858,-142.738)">
+ <g fill="#000">
+ <text style="stroke:none" transform="scale(1,-1) translate(35.44116,0)" text-anchor="middle"  font-size="12"> 
+<g fill="#000">
+ <g stroke="none"> <tspan font-family="cmmi" font-size="12">wait</tspan>(1<tspan font-family="cmmi" font-size="12">, </tspan><tspan font-family="cmsy" font-size="10"><img 
+src="cmsy10-c-52.png" alt="R" class="10-120x-x-52" /></tspan><tspan baseline-shift="sub"><tspan font-family="cmmi" font-size="8">wait</tspan> </tspan> ) </g> </g>
+ </text> 
+</g>
+ </g>
+ <g stroke="#000" fill="#000">
+ <path d=" M 145.33435 -152.78893 L 146.3018 -147.49675 L 141.00963 -149.60219  " stroke="none"/>
+ </g>
+ </g>
+ </g>
+ 
+                                                                                               </g> 
+</svg> 
